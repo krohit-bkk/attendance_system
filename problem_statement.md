@@ -1,6 +1,6 @@
 # Employee Attendance System — Attendance Status Assignment
 
-## 1. Problem Statement
+# 1. Problem Statement
 
 You are given a set of employee master data, organization-level attendance settings, shift assignments, holiday calendars, leave records, default rules, and raw employee punch/swipe data.
 
